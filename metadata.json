@@ -1,0 +1,6 @@
+{
+  "name": "XPLORE — Planet Jumping & Solar System Explorer",
+  "description": "An immersive space portal and solar system exploration experience with 3D canvas portals, cinematic planetary transitions, and comprehensive planetary and lunar dossiers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
